@@ -1,1 +1,2 @@
 fastapi==0.95.2
+haversine==2.8.0
